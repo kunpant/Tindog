@@ -11,4 +11,10 @@ h1 {
     font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
+    color: white;
+}
+
+.iphone-mockup {
+    transform: rotate(15deg); /* Rotates the image 15 degrees */
+    transition: transform 0.5s ease; /* Smooth transition for rotation */
 }
