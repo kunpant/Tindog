@@ -18,7 +18,21 @@ h1 {
     font-weight: 900;
 }
 
+h2 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
 
+h3 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+}
+
+p {
+    color: #8f8f8f;
+}
 
 /* Navigation Bar */
 
@@ -58,31 +72,46 @@ h1 {
 /* features */
 #features {
    text-align: center;
+   padding: 7% 5%;
 }
 
-.feat-row {
-    margin: 3rem 0;
-}
-
-.features-h3 {
-    font-family: 'Montserrat';
-    font-size: 1.5rem;
-    font-weight: 900;
+.feat-box {
+    padding: 5%;
 }
 
 .feat {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: #ef8172;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
 }
 
 .feat:hover {
     color: #ff4c68;
 }
 
-.feat-p {
-    font-size: 1rem;
-    line-height: 1.5;
-    margin: 0.5rem 0;
-    color: #8f8f8f;
+/* Testimonial section */
+
+#testimonials {
+    padding: 7% 5%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.test-h2 {
+    padding: 0 5% 0 5%;
+}
+
+.test-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* press section*/
+
+#press {
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 3%;
 }
