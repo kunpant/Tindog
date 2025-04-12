@@ -108,10 +108,19 @@ p {
     margin: 20px;
 }
 
+.carousel-item {
+    padding: 7% 5%;
+}
+
 /* press section*/
 
 #press {
     text-align: center;
     background-color: #ff4c68;
     padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
 }
