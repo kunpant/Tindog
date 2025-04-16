@@ -8,7 +8,7 @@ body {
 }
 
 .container-fluid {
-   padding: 3% 15%;
+   padding: 3% 15% 7%;
 }
 
 h1 {
@@ -64,15 +64,20 @@ p {
 /* Title image */
 
 .iphone-mockup {
-    width: 60%;
+    width: 23%;
     transform: rotate(25deg); /* Rotates the image 15 degrees */
     transition: transform 0.5s ease; /* Smooth transition for rotation */
+    position: absolute;
+    left: 50%;
 }
 
 /* features */
 #features {
    text-align: center;
    padding: 7% 5%;
+   background-color: #fff;
+   position: relative;
+   z-index: 1;
 }
 
 .feat-box {
@@ -133,4 +138,44 @@ p {
 
 .pric-col {
     padding: 3% 2%;
+}
+
+/* cta section*/
+
+#cta {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.cta-h3 {
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* footer section */
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff;
+}
+
+.social-icons {
+    margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .iphone-mockup {
+        position: static;
+        transform: rotate(0);
+        width: 80%;
+    }
 }
