@@ -1,5 +1,6 @@
 <h1> TinDog </h1>
-## About TinDog
+
+### About TinDog
 
 TinDog is a fictional website designed to connect dog lovers and their furry friends. Inspired by modern dating apps, TinDog provides a fun and engaging platform for dog owners to meet, share experiences, and arrange playdates for their pets. Whether you're looking for a companion for your dog or simply want to connect with like-minded individuals, TinDog has you covered.
 
