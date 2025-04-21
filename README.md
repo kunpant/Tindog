@@ -23,4 +23,5 @@ This project serves as a practice exercise for web development, showcasing the u
 
 Feel free to explore and customize TinDog to suit your needs!
 
-website link: https://kunpant.github.io/Tindog/
+### Website link: 
+https://kunpant.github.io/Tindog/
