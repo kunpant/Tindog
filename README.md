@@ -22,3 +22,5 @@ TinDog is a fictional website designed to connect dog lovers and their furry fri
 This project serves as a practice exercise for web development, showcasing the use of front-end technologies to create a functional and aesthetically pleasing website.
 
 Feel free to explore and customize TinDog to suit your needs!
+
+website link: https://kunpant.github.io/Tindog/
